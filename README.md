@@ -14,7 +14,10 @@ $ git commit -m "Ajout nomDeFichier"
 $ git push  
 
 <!-- -->
-## Ajouts 13/09/2016  
+### Ajouts 14/09/2016
+_ BDR : diapo de cours  
+
+### Ajouts 13/09/2016  
 _ SSII : diapo de cours  
 _ SSII : fichier son pour TP  
 _ SSII : logiciel lecture fichiers Héxadécimaux  
