@@ -15,7 +15,8 @@ $ git push
 
 <!-- -->
 ### Ajouts 14/09/2016
-_ BDR : diapo de cours  
+_ BDR : diapo de cours
+_ BDR : sujet du TD1  
 
 ### Ajouts 13/09/2016  
 _ SSII : diapo de cours  
