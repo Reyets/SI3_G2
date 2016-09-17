@@ -14,8 +14,13 @@ $ git commit -m "Ajout nomDeFichier"
 $ git push  
 
 <!-- -->
+### Ajouts 17/09/2016  
+_ BDR : Correction TD1  
+_ SSII : Correction TP1  
+_ PP : Correction TD1  
+
 ### Ajouts 14/09/2016  
-_ PP : Makefile pour TPs  
+_ PP : Makefile pour TDs  
 _ PP : diapo de cours 1  
 _ PP : sujet TD1  
 _ BDR : diapo de cours  
