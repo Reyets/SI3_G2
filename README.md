@@ -14,8 +14,8 @@ $ git commit -m "Ajout nomDeFichier"
 $ git push  
 
 <!-- -->
-### Ajouts 17/09/2016
-_ IT1 : diapo de cours 1
+### Ajouts 17/09/2016  
+_ IT1 : diapo de cours 1  
 _ IT1 : sujet TD0  
 _ BDR : Correction TD1  
 _ SSII : Correction TP1  
