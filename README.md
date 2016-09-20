@@ -15,6 +15,8 @@ $ git push
 
 <!-- -->
 ### Ajouts 20/09/2016  
+_ IT1 : diapo de cours 2  
+_ IT1 : sujet TD1  
 _ SSII : diapo de cours 2  
 
 ### Ajouts 17/09/2016  
