@@ -12,7 +12,7 @@ int main()
     else
       if ('a' <= c && c <= 'z') letters[c - 'a'] += 1;
       else
-	     if ('A' <= c && c <= 'Z') letters[c - 'A'] += 1;
+	if ('A' <= c && c <= 'Z') letters[c - 'A'] += 1;
 
   for (c = '0'; c <= '9'; c++)
     printf("%c %3d\n", c, digits[c - '0']);
