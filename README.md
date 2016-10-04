@@ -15,6 +15,7 @@ $ git push
 
 <!-- -->
 ### Ajouts 04/10/2016  
+_ SSII : diapo de cours 4  
 _ PP : corrections TD2  
 
 ### Ajouts 28/09/2016
