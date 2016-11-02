@@ -14,7 +14,9 @@ $ git commit -m "Ajout nomDeFichier"
 $ git push  
 
 <!-- -->
-### Ajouts 02/11/2016  
+### Ajouts 02/11/2016
+_ ASD1 : diapo de cours
+_ ASD1 : correction des lab 1, 2 et 3  
 _ PP : corrections TD3  
 
 ### Ajouts 04/10/2016  
